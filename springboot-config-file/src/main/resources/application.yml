@@ -1,0 +1,12 @@
+# 发件人相关的信息
+email:
+  user: 859193125@qq.com
+  code: zkakxlkvbnwkbbgc
+  host: smtp.qq.com
+  auth: true
+
+# 学生的爱好（一个数组）
+hobbies:
+  - 打篮球
+  - 打豆豆
+  - 打游戏

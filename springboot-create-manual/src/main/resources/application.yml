@@ -1,0 +1,4 @@
+server:
+  port: 9090  # \u914D\u7F6E\u7AEF\u53E3\u53F7
+  servlet:
+    context-path: /start  # \u914D\u7F6Econtext-path
